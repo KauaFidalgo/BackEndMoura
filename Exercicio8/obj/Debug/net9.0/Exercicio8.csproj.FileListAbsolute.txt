@@ -1,0 +1,15 @@
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\bin\Debug\net9.0\Exercicio8.exe
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\bin\Debug\net9.0\Exercicio8.deps.json
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\bin\Debug\net9.0\Exercicio8.runtimeconfig.json
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\bin\Debug\net9.0\Exercicio8.dll
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\bin\Debug\net9.0\Exercicio8.pdb
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfo.cs
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.sourcelink.json
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.dll
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\refint\Exercicio8.dll
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.pdb
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\Exercicio8.genruntimeconfig.cache
+C:\Users\55435579813\Desktop\BackEndMoura\Exercicio8\obj\Debug\net9.0\ref\Exercicio8.dll
