@@ -1,0 +1,5 @@
+C:\Users\55435579813\Desktop\BackEndMoura\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55435579813\Desktop\BackEndMoura\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.AssemblyInfoInputs.cache
+C:\Users\55435579813\Desktop\BackEndMoura\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.AssemblyInfo.cs
+C:\Users\55435579813\Desktop\BackEndMoura\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.csproj.CoreCompileInputs.cache
+C:\Users\55435579813\Desktop\BackEndMoura\AgenciaMoura\obj\Debug\net9.0\AgenciaMoura.sourcelink.json
